@@ -1,0 +1,503 @@
+C:\Users\pedrohsilva\Desktop\test\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+C:\Users\pedrohsilva\Desktop\test\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\Users\pedrohsilva\Desktop\test\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+C:\Users\pedrohsilva\Desktop\test\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedrohsilva\Desktop\test\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+C:\Users\pedrohsilva\Desktop\test\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\test.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\test.pdb
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pedrohsilva\Desktop\test\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\pedrohsilva\Desktop\test\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
+C:\Users\pedrohsilva\Desktop\test\obj\Debug\netcoreapp3.0\test.dll
+C:\Users\pedrohsilva\Desktop\test\obj\Debug\netcoreapp3.0\test.pdb
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\pedrohsilva\Desktop\test\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\test.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\test.pdb
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\obj\Debug\netcoreapp3.0\test.dll
+C:\Users\pedrohsilva\Desktop\API+JWT - Copia\obj\Debug\netcoreapp3.0\test.pdb
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\test.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\test.pdb
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+C:\Users\pedrohsilva\Desktop\API+JWT\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\Users\pedrohsilva\Desktop\API+JWT\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+C:\Users\pedrohsilva\Desktop\API+JWT\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedrohsilva\Desktop\API+JWT\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+C:\Users\pedrohsilva\Desktop\API+JWT\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+C:\Users\pedrohsilva\Desktop\API+JWT\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\pedrohsilva\Desktop\API+JWT\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
+C:\Users\pedrohsilva\Desktop\API+JWT\obj\Debug\netcoreapp3.0\test.dll
+C:\Users\pedrohsilva\Desktop\API+JWT\obj\Debug\netcoreapp3.0\test.pdb
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.pdb
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.dll
+C:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.pdb
+c:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\pedrohsilva\Desktop\Projeto\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+<<<<<<< HEAD
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.pdb
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.pdb
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\luizmarinelli\Desktop\InternetBanking - BackEnd\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
+=======
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\appsettings.Development.json
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\appsettings.json
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.pdb
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.dll
+c:\Users\luizeleal\Desktop\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.pdb
+>>>>>>> f65091c2569cb3a47d3affdfdc836725a6aec0db
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\appsettings.Development.json
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\appsettings.json
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\test.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\test.pdb
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+c:\Users\luizmarinelli\Desktop\Nova pasta\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+c:\Users\luizmarinelli\Desktop\Nova pasta\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+c:\Users\luizmarinelli\Desktop\Nova pasta\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\luizmarinelli\Desktop\Nova pasta\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+c:\Users\luizmarinelli\Desktop\Nova pasta\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+c:\Users\luizmarinelli\Desktop\Nova pasta\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\luizmarinelli\Desktop\Nova pasta\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
+c:\Users\luizmarinelli\Desktop\Nova pasta\obj\Debug\netcoreapp3.0\test.dll
+c:\Users\luizmarinelli\Desktop\Nova pasta\obj\Debug\netcoreapp3.0\test.pdb
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.pdb
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\appsettings.Development.json
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\appsettings.json
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.pdb
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\luizmarinelli\Desktop\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
+c:\Users\luizmarinelli\Desktop\BackUp2\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+c:\Users\luizmarinelli\Desktop\BackUp2\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+c:\Users\luizmarinelli\Desktop\BackUp2\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+c:\Users\luizmarinelli\Desktop\BackUp2\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\luizmarinelli\Desktop\BackUp2\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+c:\Users\luizmarinelli\Desktop\BackUp2\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+c:\Users\luizmarinelli\Desktop\BackUp2\obj\Debug\netcoreapp3.0\test.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\obj\Debug\netcoreapp3.0\test.pdb
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\appsettings.json
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\test.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\test.pdb
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\luizmarinelli\Desktop\BackUp2\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\luizmarinelli\Desktop\BackUp2\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\appsettings.Development.json
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\appsettings.json
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.pdb
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.dll
+c:\Users\guilhermematos\Documents\GitHub\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.pdb
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\appsettings.Development.json
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\appsettings.json
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\test.pdb
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.dll
+c:\Users\luizmarinelli\Documents\InternetBanking\InternetBanking-BackEnd\obj\Debug\netcoreapp3.0\test.pdb
