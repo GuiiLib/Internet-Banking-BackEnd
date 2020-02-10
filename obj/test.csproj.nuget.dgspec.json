@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luizeleal\\Desktop\\InternetBanking\\InternetBanking-BackEnd\\test.csproj": {}
+    "C:\\Users\\guilhermematos\\Desktop\\Git\\Internet-Banking-BackEnd\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luizeleal\\Desktop\\InternetBanking\\InternetBanking-BackEnd\\test.csproj": {
+    "C:\\Users\\guilhermematos\\Desktop\\Git\\Internet-Banking-BackEnd\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luizeleal\\Desktop\\InternetBanking\\InternetBanking-BackEnd\\test.csproj",
+        "projectUniqueName": "C:\\Users\\guilhermematos\\Desktop\\Git\\Internet-Banking-BackEnd\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\luizeleal\\Desktop\\InternetBanking\\InternetBanking-BackEnd\\test.csproj",
-        "packagesPath": "C:\\Users\\luizeleal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luizeleal\\Desktop\\InternetBanking\\InternetBanking-BackEnd\\obj\\",
+        "projectPath": "C:\\Users\\guilhermematos\\Desktop\\Git\\Internet-Banking-BackEnd\\test.csproj",
+        "packagesPath": "C:\\Users\\guilhermematos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guilhermematos\\Desktop\\Git\\Internet-Banking-BackEnd\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\luizeleal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\guilhermematos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -53,6 +56,10 @@
             "Microsoft.EntityFrameworkCore.Tools.DotNet": {
               "target": "Package",
               "version": "[2.0.3, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.12.6, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
