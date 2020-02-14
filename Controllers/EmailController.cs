@@ -50,8 +50,8 @@ namespace InternetBanking.Controllers
             
             var apiKey = Environment.GetEnvironmentVariable("TESTEIBENVIAR");
             var client = new SendGridClient(apiKey);
-            var from = new EmailAddress("liberalino50@gmail.com", "Guilherme");
-            var to = new EmailAddress("liberalino50@gmail.com", "Guilherme");
+            var from = new EmailAddress("Email remetente", "Guilherme");
+            var to = new EmailAddress("Email destinário", "Guilherme");
             var subject = "Abra o email urgente";
             var plainTextContent = "and easy to do anywhere, even with C#";
             var htmlContent = "<strong>Lucas o  email ta indo</strong>";
