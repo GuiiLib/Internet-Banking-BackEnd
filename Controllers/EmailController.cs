@@ -47,14 +47,14 @@ namespace InternetBanking.Controllers
 
         static async Task Execute(){
             
-            Environment.SetEnvironmentVariable("TESTEIBENVIAR","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");
+            
             var apiKey = Environment.GetEnvironmentVariable("TESTEIBENVIAR");
             var client = new SendGridClient(apiKey);
             var from = new EmailAddress("liberalino50@gmail.com", "Guilherme");
             var to = new EmailAddress("liberalino50@gmail.com", "Guilherme");
-            var subject = "Sending with Twilio Send grid is fun!";
+            var subject = "Abra o email urgente";
             var plainTextContent = "and easy to do anywhere, even with C#";
-            var htmlContent = "<strong>Funcinou o email</strong>";
+            var htmlContent = "<strong>Lucas o  email ta indo</strong>";
             var msg = MailHelper.CreateSingleEmail(from,to,subject,plainTextContent,htmlContent);
 
             var response = await client.SendEmailAsync(msg);
