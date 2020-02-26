@@ -45,16 +45,17 @@ namespace InternetBanking.Controllers
             return new NoContentResult();
         }
 
-        static async Task Execute(){
+        static async Task Execute(){            
             
-            
-            var apiKey = Environment.GetEnvironmentVariable("TESTEIBENVIAR");
+            // APIENVIARIB Variavel local criada no windows
+
+            var apiKey = Environment.GetEnvironmentVariable("APIENVIARIB",EnvironmentVariableTarget.User);
             var client = new SendGridClient(apiKey);
-            var from = new EmailAddress("Email remetente", "Guilherme");
-            var to = new EmailAddress("Email destinário", "Guilherme");
+            var from = new EmailAddress("Email remetente", "Nome");
+            var to = new EmailAddress("Email destinário", "Nome");
             var subject = "Abra o email urgente";
             var plainTextContent = "and easy to do anywhere, even with C#";
-            var htmlContent = "<strong>Lucas o  email ta indo</strong>";
+            var htmlContent = "<strong>O email ta indo</strong>";
             var msg = MailHelper.CreateSingleEmail(from,to,subject,plainTextContent,htmlContent);
 
             var response = await client.SendEmailAsync(msg);
